@@ -101,11 +101,11 @@
             <label for="email">Email</label>
             <input type="email" id="email" required>
 
-            <!-- <label for="tuoi">Age</label>
+            <label for="tuoi">Age</label>
             <input type="text" id="tuoi" required>
 
             <label for="git">Git</label>
-            <input type="text" id="git" required> -->
+            <input type="text" id="git" required>
 
             <button type="submit">Đăng ký</button>
         </form>
